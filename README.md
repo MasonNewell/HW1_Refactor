@@ -9,7 +9,7 @@ This is the first homework assignment that is about refactoring code.
 
 # Screenshot
 
-[<img src="./assets/images/HW1_sub_ss.png>]
+![](./assets/images/HW1_sub_ss.png)
 
 # Link
 
